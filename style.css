@@ -28,7 +28,7 @@ main{
     padding: 40px;
     display: flex;
     flex-direction: column;
-    width: 30vw;
+    width: 40vw;
     height: 50vh;
 }
 .inputs{
